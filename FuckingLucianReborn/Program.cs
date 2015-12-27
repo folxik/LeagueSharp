@@ -67,8 +67,8 @@ namespace FuckingLucianReborn
             Drawing.OnDraw += Drawing_OnDraw;
             
             Game.PrintChat("<b><font color=\"#04EECA\">Fucking</font> <font color=\"#DC0DA1\">Lucian</font> <font color=\"#FF0000\">Reborn</font> <font color=\"#FFFFFF\">by</font> <font color=\"#FFEB00\">folxu</font> <font color=\"#00FF2F\">Loaded!</font></b>");
-            Game.PrintChat("<b><font color=\"#FFA600\">Working on 5.19</font></b>");
-            Game.PrintChat("<b><font color=\"#FF00F3\">Joduska.me !</font></b>");
+            Game.PrintChat("<b><font color=\"#FFA600\">Working on 5.24</font></b>");
+            Game.PrintChat("<b><font color=\"#FF00F3\">Github.com/folxik/LeagueSharp</font></b>");
         }
         //Reset Auto Attack After Spells
         private static void oncast(Obj_AI_Base sender, GameObjectProcessSpellCastEventArgs args)
